@@ -1,6 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture></p>
 
-<h1 align="center">Hi 👋, I'm Isaac Antonio ZT.</h1>
+<h1 align="center">Hi 🌐, I'm 𝕴𝖘𝖆𝖆𝖈 𝖅𝕿.</h1>
 <h3 align="center">Self-taught programmer learning web development and more 💻</h3>
 
 <table align="center">
@@ -78,10 +78,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-## My Contribution Graph
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[𝕴𝖘𝖆𝖆𝖈 𝖅]/[𝕴𝖘𝖆𝖆𝖈 𝖅𝕿]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[𝕴𝖘𝖆𝖆𝖈 𝖅𝕿]/[𝕴𝖘𝖆𝖆𝖈 𝖅𝕿]/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[𝕴𝖘𝖆𝖆𝖈 𝖅𝕿]/[USERNAME]/output/pacman-contribution-graph.svg">
-</picture>
