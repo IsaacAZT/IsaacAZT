@@ -59,6 +59,12 @@
 
 <p align="center"><i>🔜 Python & JavaScript — Coming soon!</i></p>
 ---
+<h3 align="center">Certifications:</h3>
+<p align="center">
+<a href="https://certificados.thebigschool.com/wp-content/uploads/certs/MDEV2/Certificado-Isaac-Antonio-Zapata-Torres-cfn4priy.pdf"
+</a>
+</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 
