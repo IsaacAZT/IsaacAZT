@@ -59,10 +59,11 @@
 
 <p align="center"><i>🔜 Python & JavaScript — Coming soon!</i></p>
 ---
-<h3 align="center">Certifications:</h3>
+<h3 align="center">📜 Certifications</h3>
 <p align="center">
-<a href="https://certificados.thebigschool.com/wp-content/uploads/certs/MDEV2/Certificado-Isaac-Antonio-Zapata-Torres-cfn4priy.pdf"
-</a>
+  <a href="https://certificados.thebigschool.com/wp-content/uploads/certs/MDEV2/Certificado-Isaac-Antonio-Zapata-Torres-cfn4priy.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/The%20Big%20School-Web%20Development-blue?style=for-the-badge&logo=googledocs&logoColor=white"/>
+  </a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
