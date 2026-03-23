@@ -7,10 +7,10 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌐 Currently learning Web Development
-- 💻 Practicing C#, HTML & CSS
-- 🔜 Coming soon: Python & JavaScript
-- ⚡ Fun fact: ¡Nunca paro de aprender!
+-  Currently learning Web Development
+-  Practicing C#, HTML & CSS
+-  Coming soon: Python & JavaScript
+-  Fun fact: ¡Nunca paro de aprender!
 
 <td width="50%" align="center">
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
@@ -56,8 +56,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 </p>
-
-<p align="center"><i>🔜 Python & JavaScript — Coming soon!</i></p>
 ---
 <h3 align="center">📜 Certifications</h3>
 <p align="center">
