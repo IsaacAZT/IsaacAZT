@@ -61,22 +61,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 📊 github stats
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=radical&show_icons=true&count_private=true"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical"/>
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TU_USUARIO&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
-</table>
-
 ---
 
 ### 📜 certifications
